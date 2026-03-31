@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter_config/
+.jupyter_runtime/
+*.pyc
+build_notebook.py
