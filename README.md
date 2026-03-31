@@ -1,6 +1,8 @@
 # YZM304 Derin Öğrenme Dersi I. Proje Modülü I. Proje Ödevi
 
 ## Introduction
+Ad: Hasna Sena Kaymak
+Numara: 22290684
 
 Bu çalışmada `healthcare-dataset-stroke-data.csv` veri seti kullanılarak inme (`stroke`) tahmini için ikili sınıflandırma problemi ele alınmıştır. Çalışmanın temel amacı, ders/laboratuvar kapsamında ele alınan tek gizli katmanlı temel çok katmanlı algılayıcı (MLP) modelini veri üzerinde eğitmek, performansını değerlendirmek, overfitting-underfitting davranışını incelemek ve farklı iyileştirme denemeleri ile sonuçları karşılaştırmaktır.
 
