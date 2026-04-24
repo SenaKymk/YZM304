@@ -1,0 +1,14 @@
+# Dataset files
+data/
+
+# Large generated artifacts
+artifacts/features/
+artifacts/models/
+
+# Raw Colab/local exports
+exports/
+*.zip
+
+# Notebook/runtime noise
+.ipynb_checkpoints/
+__pycache__/

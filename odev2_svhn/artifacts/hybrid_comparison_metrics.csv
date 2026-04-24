@@ -1,0 +1,3 @@
+Model,Test Accuracy
+Tam CNN (ImprovedCNN),0.9267824216349109
+Hibrit Model (CNN Features + LinearSVC),0.9256299938537185

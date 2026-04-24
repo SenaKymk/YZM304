@@ -1,0 +1,4 @@
+Model,Test Loss,Test Accuracy,Model Path
+Model 3 - ResNet18,0.24781781151551885,0.9361939151813153,/content/artifacts/models/model_3_-_resnet18_best.pth
+Model 2 - Improved CNN,0.26460871709477485,0.9251690227412416,/content/artifacts/models/model_2_-_improved_cnn_best.pth
+Model 1 - Baseline CNN,0.36736984814722695,0.9100338045482483,/content/artifacts/models/model_1_-_baseline_cnn_best.pth
