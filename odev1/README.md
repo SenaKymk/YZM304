@@ -1,4 +1,4 @@
-# YZM304 Derin Öğrenme Dersi I. Proje Modülü I. Proje Ödevi
+# YZM304 Derin Öğrenme Lab Dersi - 1. Proje Ödevi
 
 ## Introduction
 Ad: Hasna Sena Kaymak
